@@ -92,7 +92,7 @@ An interactive dashboard with filters and age and category trends for stakeholde
 
 > Add dashboard screenshots to an `images/` folder and reference them here:
 >
-> `![Dashboard overview](images/dashboard_overview.png)`
+> `<img width="1234" height="667" alt="image" src="https://github.com/user-attachments/assets/12563ce0-677a-4f3c-87c0-1e741ea3925f" />
 
 ---
 
